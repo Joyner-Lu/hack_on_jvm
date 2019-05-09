@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08570ebe-dd0e-4817-89d8-a0aeedf84edd" name="Default" comment="" />
+    <list default="true" id="08570ebe-dd0e-4817-89d8-a0aeedf84edd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/wlclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/wljmxclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/SleepTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/ZipCompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/ZipCompressBak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/DirectMemoryOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/HeapOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/JavaMethodAreaOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/JavaVMStackOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/JavaVMStackSOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter2_hotspot_object/RuntimeConstantPoolOOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/FinalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/ReferenceCountingGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestPretenureSizeThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestTenuringThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestTenuringThreshold2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/BTraceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/MonitoringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/MonitoringThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/MotoringDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/TracingScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/ConstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/DynamicDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/InvokeDynamicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/MethodHandleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/SlotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/$Proxy0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ByteUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ClassModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/HotSwapClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/eclipsestarttime/actions/ShowTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jface/dialogs/MessageDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/swt/widgets/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/swt/widgets/Shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/ui/IStartup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com.joyner.showtime_1.0.0.201904111319.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/MyConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/PrintServerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/WebLogicServerRuntime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ConTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestStaticCq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/gzip_demo/ZipDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/rmi/server/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/rmi/server/OperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/rmi/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/AppTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,18 +84,130 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hack_on_jvm" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ClassModifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ClassModifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-end-line="1" />
+            <state relative-caret-position="170">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#2055#2056#0" expanded="true" />
+                <element signature="e#2139#2140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ByteUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <folding>
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jface/dialogs/MessageDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="60" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="$Proxy0.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/$Proxy0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>“</find>
+      <find>getJvmRuntime</find>
+      <find>service</find>
+      <find>getThreadGroup</find>
+      <find>toString</find>
+      <find>out.print</find>
+      <find>threads</find>
+      <find>nthreads</find>
+      <find>getPropert</find>
+      <find>vm</find>
+      <find>param</find>
+      <find>connection</find>
+      <find>getTotalThread</find>
+      <find>）</find>
+      <find>，</find>
+      <find>＜</find>
+      <find>＞</find>
+      <find>SubClass init</find>
+      <find>[Lcom.joyner</find>
+      <find>SubClass</find>
+      <find>t.getQueue().element()</find>
+      <find>execute</find>
+      <find>write</find>
+      <find>getFetchSize</find>
+      <find>invokedynamic</find>
+      <find>load</find>
+      <find>loadClass</find>
+      <find>ProxyClassFactory</find>
+      <find>invoke</find>
+      <find>defineClassCond</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+      <replace>(</replace>
+      <replace>!</replace>
+      <replace>:</replace>
+      <replace>&quot;</replace>
+      <replace>System.out.println</replace>
+      <replace>,</replace>
+      <replace>&gt;</replace>
+      <replace>checkQueue(t)</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +215,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/WebLogicServerRuntime.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/rmi/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/rmi/server/IOperation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/rmi/server/OperationImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestAllocation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestPretenureSizeThreshold.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestTenuringThreshold.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/TestTenuringThreshold2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/ui/IStartup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/ShowTime.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/plugin.xm" />
+        <option value="$PROJECT_DIR$/src/main/resources/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipsestarttime/actions/ShowTime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/SubClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/ConstClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/NotInitialization3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/ClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticResolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/SleepTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/ZipCompressBak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/ZipCompress.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/test/gzip_demo/GzipDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/gzip_demo/ZipDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/TestStatic.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/ConTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/SlotTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Overload.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Dispatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/MethodHandleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/GrandFather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticDispatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/DynamicDispatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/InvokeDynamicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/swt/widgets/Display.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/DynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/$Proxy0.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/HotSwapClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ClassModifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jface/dialogs/MessageDialog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ByteUtils.java" />
       </list>
     </option>
   </component>
@@ -52,17 +287,43 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hack-jvm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hack-jvm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hack-jvm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1281" />
-    <option name="height" value="681" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,6 +364,53 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jvm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="dialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hack_on_jvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hack_on_jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,17 +419,31 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="zip&#9;FILE&#9;file://D:/Java/projects/hack_on_jvm/src/main/java/com/joyner/hack/jvm/ZipCompress.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.joyner.hack.jvm" />
+      <recent name="eclipsestarttime.actions" />
+      <recent name="com.joyner.hack.jvm.chapter3_gc" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\projects\hack_on_jvm\src\main\resources" />
+      <recent name="D:\Java\projects\hack_on_jvm\src\main\java\com\joyner\hack\jvm\chapter4_performance" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +457,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MessageDialog">
+    <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.eclipse.swt.widgets.Display" />
+      <module name="hack_on_jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.eclipse.swt.widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DynamicDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.hack.jvm.chapter8_stack_frame.DynamicDispatch" />
+      <module name="hack_on_jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyner.hack.jvm.chapter8_stack_frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.hack.jvm.chapter9_demo.DynamicProxyTest" />
+      <module name="hack_on_jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyner.hack.jvm.chapter9_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InvokeDynamicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.hack.jvm.chapter8_stack_frame.InvokeDynamicTest" />
+      <module name="hack_on_jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyner.hack.jvm.chapter8_stack_frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MessageDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.eclipse.jface.dialogs.MessageDialog" />
+      <module name="hack_on_jvm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.eclipse.jface.dialogs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -177,6 +554,25 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.DynamicDispatch" />
+      <item itemvalue="Application.InvokeDynamicTest" />
+      <item itemvalue="Application.Display" />
+      <item itemvalue="Application.DynamicProxyTest" />
+      <item itemvalue="Application.MessageDialog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MessageDialog" />
+        <item itemvalue="Application.DynamicProxyTest" />
+        <item itemvalue="Application.Display" />
+        <item itemvalue="Application.InvokeDynamicTest" />
+        <item itemvalue="Application.DynamicDispatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -188,45 +584,112 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547608717431</updated>
-      <workItem from="1547608724711" duration="333000" />
+      <workItem from="1547608724711" duration="2407000" />
+      <workItem from="1547611314405" duration="3290000" />
+      <workItem from="1547628042064" duration="850000" />
+      <workItem from="1547688600545" duration="10621000" />
+      <workItem from="1547775151723" duration="19253000" />
+      <workItem from="1548126576099" duration="10019000" />
+      <workItem from="1548219194489" duration="7035000" />
+      <workItem from="1548233708668" duration="12454000" />
+      <workItem from="1548381193161" duration="1916000" />
+      <workItem from="1548398556977" duration="9183000" />
+      <workItem from="1550138634874" duration="8123000" />
+      <workItem from="1550823535878" duration="3345000" />
+      <workItem from="1551060106134" duration="755000" />
+      <workItem from="1551080568961" duration="674000" />
+      <workItem from="1551172079834" duration="27000" />
+      <workItem from="1552284475952" duration="3533000" />
+      <workItem from="1553269135617" duration="6141000" />
+      <workItem from="1553495567673" duration="115000" />
+      <workItem from="1553496958817" duration="2861000" />
+      <workItem from="1554868306815" duration="11072000" />
+      <workItem from="1554951928395" duration="456000" />
+      <workItem from="1554952931713" duration="4894000" />
+      <workItem from="1555051399343" duration="1260000" />
+      <workItem from="1555298331010" duration="4061000" />
+      <workItem from="1555377685713" duration="5560000" />
+      <workItem from="1555467898721" duration="9689000" />
+      <workItem from="1556071887588" duration="521000" />
+      <workItem from="1556072449876" duration="11783000" />
+      <workItem from="1556109307226" duration="10122000" />
+      <workItem from="1556260268331" duration="17807000" />
+      <workItem from="1556331222764" duration="15358000" />
+      <workItem from="1556366640517" duration="945000" />
+      <workItem from="1556414164943" duration="5000" />
+      <workItem from="1556444031671" duration="1680000" />
+      <workItem from="1557113154295" duration="33653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="333000" />
+    <option name="totallyTimeSpent" value="231468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32978722" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012126" side_tool="true" weight="0.30496454" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32983023" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.36347517" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7180851" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.34751773" weight="0.45109135" />
+      <window_info anchor="bottom" id="JProfiler" order="11" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info id="Structure" order="1" sideWeight="0.6524823" side_tool="true" weight="0.45109135" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.2497979" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987874" weight="0.7216312" />
+      <window_info id="Favorites" order="5" sideWeight="0.7360406" side_tool="true" weight="0.2708165" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.36347517" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.2497979" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.34751773" visible="true" weight="0.45109135" />
+      <window_info id="Structure" order="1" sideWeight="0.6524823" side_tool="true" weight="0.45109135" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="JProfiler" order="11" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7180851" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012126" side_tool="true" weight="0.30496454" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987874" weight="0.7216312" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32978722" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32983023" />
+      <window_info id="Favorites" order="5" sideWeight="0.7360406" side_tool="true" weight="0.2708165" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -234,17 +697,556 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter3_gc/ReferenceCountingGC.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/joyner/hack/jvm/Test.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/rmi/server/Server.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/rmi/registry/RegistryImpl.class</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter7_load_class/ClassLoaderTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/AbstractExecutorService.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/OracleStatement.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
+        <state relative-caret-position="29461">
+          <caret line="1788" selection-start-line="1788" selection-end-line="1788" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/T4CPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9588">
+          <caret line="582" selection-start-line="582" selection-end-line="582" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/T4CConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66912">
+          <caret line="4076" selection-start-line="4076" selection-end-line="4076" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/T4C8Oall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9979">
+          <caret line="608" selection-start-line="608" selection-end-line="608" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/T4CTTIfun.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/ResultSetMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/TestStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/上班资料/常用软件安装包/ojdbc8-full/ojdbc8-full/ojdbc8.jar!/oracle/jdbc/driver/InsensitiveScrollableResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="153" column="62" selection-start-line="153" selection-start-column="62" selection-end-line="153" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/ConTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19533">
+          <caret line="1175" column="7" selection-start-line="1175" selection-start-column="7" selection-end-line="1175" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/gzip_demo/ZipDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/SlotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1192" column="11" selection-start-line="1192" selection-start-column="11" selection-end-line="1192" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticResolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/GrandFather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="808" column="5" lean-forward="true" selection-start-line="803" selection-start-column="3" selection-end-line="808" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter4_performance/BTraceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Dispatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/StaticDispatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/joyner/hack/jvm/chapter8_stack_frame/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/MethodHandleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/invoke/MethodHandles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+          <folding>
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/InvokeDynamicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter8_stack_frame/DynamicDispatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/apache/ant/ant/1.10.3/ant-1.10.3.jar!/org/apache/tools/ant/taskdefs/Classloader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/apache/ant/ant/1.10.3/ant-1.10.3-sources.jar!/org/apache/tools/ant/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/apache/ant/ant/1.10.3/ant-1.10.3-sources.jar!/org/apache/tools/ant/taskdefs/Classloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="187" column="30" selection-start-line="187" selection-start-column="30" selection-end-line="187" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/joyner/hack/jvm/chapter9_demo/DynamicProxyTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/swt/widgets/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/SleepTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/WeakCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="264" column="28" selection-start-line="264" selection-start-column="28" selection-end-line="264" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="377" column="45" selection-start-line="377" selection-start-column="45" selection-end-line="377" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="128" column="21" selection-end-line="1115" />
+          <folding>
+            <element signature="e#4886#5809#0" expanded="true" />
+            <element signature="e#5808#5809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/joyner/hack/jvm/chapter9_demo/$Proxy0.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#2514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="92" column="37" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/DynamicProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_20/src.zip!/javax/tools/ToolProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/HotSwapClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_20/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="615" column="31" selection-start-line="615" selection-start-column="16" selection-end-line="615" selection-end-column="31" />
+          <folding>
+            <element signature="e#7908#7909#0" expanded="true" />
+            <element signature="e#7962#7963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/$Proxy0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jface/dialogs/MessageDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ClassModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#2055#2056#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/hack/jvm/chapter9_demo/ByteUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -258,11 +1260,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hack_on_jvm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -282,6 +1297,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>wlclient</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

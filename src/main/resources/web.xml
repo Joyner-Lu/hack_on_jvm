@@ -1,0 +1,5 @@
+<web-app
+        xmlns="jar://C:/Program Files/JetBrains/IntelliJ IDEA 2018.1.5/plugins/Geronimo/lib/geronimoIntegration.jar!/descriptors/geronimo-web-1.0.xsd">
+    <test>产品</test>
+
+</web-app>

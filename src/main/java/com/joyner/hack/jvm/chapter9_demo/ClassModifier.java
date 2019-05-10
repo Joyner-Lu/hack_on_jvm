@@ -47,6 +47,7 @@ public class ClassModifier {
                 String str = ByteUtils.bytes2String(classByte, offset, len);
                 if (str.equalsIgnoreCase(oldStr)) {
                     byte[] strBytes = ByteUtils.string2Bytes(newStr);
+                    //计算字符的个数
                     byte[] strLen = ByteUtils.int2Bytes(newStr.length(), u2);
                     classByte = ByteUtils.bytesReplace(classByte, offset - u2, u2, strLen);
                     classByte = ByteUtils.bytesReplace(classByte, offset, len, strBytes);
